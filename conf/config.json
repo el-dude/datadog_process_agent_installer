@@ -1,0 +1,6 @@
+// config.json
+{
+  "DEFAULT": {
+    "dd_api_key": ""
+  }
+}
